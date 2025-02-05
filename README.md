@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/saminul-amin/saminul-amin/main/Developer.gif" width="200">
+<p align="center"><img src="https://raw.githubusercontent.com/saminul-amin/saminul-amin/main/Developer.gif"></p>
+
 <h1 align="center">👋 Hey There! it’s Samin Here!</h1>
 
 ###
