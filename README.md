@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left"><span style="font-weight: bold">GradeGrow:</span> A web app that helps digitalizing the current education system so precisely. Built with React, Node.js, and MongoDB.</p>
+<p align="left"><strong>GradeGrow:</strong> A web app that helps digitalizing the current education system so precisely. Built with React, Node.js, and MongoDB.</p>
 
 ###
 
@@ -20,11 +20,11 @@
 
 ###
 
-<p align="left">Currently diving deeper into TypeScript and Django.</p>
-
-###
-
-<p align="left">Exploring AI Integration and Backend Development.</p>
+<ul>
+  <li>Currently diving deeper into TypeScript and Django.</li>
+  <li>Exploring AI Integration and Backend Development.</li>
+  <li>Learning Machine Learning with Anaconda.</li>
+</ul>
 
 ###
 
