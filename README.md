@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">GradeGrow: A web app that helps digitalizing the current education system so precisely. Built with React, Node.js, and MongoDB.</p>
+<p align="left"><span style="font-weight: bold">GradeGrow:</span> A web app that helps digitalizing the current education system so precisely. Built with React, Node.js, and MongoDB.</p>
 
 ###
 
