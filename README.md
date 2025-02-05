@@ -4,6 +4,10 @@
 
 ###
 
+<p align="center">🚀 <strong>Full-Stack Developer | MERN Enthusiast | Problem Solver</strong></p>
+
+###
+
 <p align="center">I’m the person who’s always up for solving strategic puzzles and untangling tricky code. From building responsive websites to designing smart solutions for programming challenges, I’m all about creating smooth, efficient user experiences and making things work like magic. Oh, and learning new technologies? That’s my version of fun!</p>
 
 ###
