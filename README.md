@@ -1,95 +1,48 @@
-<p align="center"><img src="https://raw.githubusercontent.com/saminul-amin/saminul-amin/main/Developer.gif"></p>
+# Md. Saminul Amin
 
-<h1 align="center">👋 Hey There! it’s Samin Here!</h1>
+**AI Engineer.** I build production systems in TypeScript and put models inside them.
 
-###
+Currently the engineer on **TrustCart ERP** — a multi-tenant platform serving six retail
+storefronts from a single backend. NestJS and PostgreSQL, TypeORM migrations, Redis and Bull
+for queues, Socket.IO for realtime, Next.js on the front. 41 modules, 166 entities, 256 pages.
+I own the schema, the migration discipline, the backup pipeline and the deploys — around
+1,300 commits and 620 pull requests so far.
 
-<p align="center">🚀 <strong>Full-Stack Developer | MERN Enthusiast | Problem Solver</strong></p>
+Separately I work on Bengali-language NLP, and on projects that let me push into unfamiliar
+ground.
 
-###
+Sylhet, Bangladesh · open to remote
 
-<p align="center">I’m the person who’s always up for solving strategic puzzles and untangling tricky code. From building responsive websites to designing smart solutions for programming challenges, I’m all about creating smooth, efficient user experiences and making things work like magic. Oh, and learning new technologies? That’s my version of fun!</p>
+---
 
-###
+## Selected work
 
-<h2 align="left">🚀 Currently Working On:</h2>
+| Project | What it is |
+| :-- | :-- |
+| **[Ankur](https://github.com/saminul-amin/ankur)** · [live](https://ankur-gamma.vercel.app) | Turns Bengali and English documents into source-grounded adaptive assessments. Every generated item must cite validated source segment IDs before it can be displayed — the source boundary is enforced, not suggested. |
+| **[Caissa](https://github.com/saminul-amin/project-caissa)** | A local-first chess application with a bounded engine and guided post-game review. No accounts, no server, no analytics; everything runs on your device. 103 test files, CI, GPL-3.0. |
+| **[AirScript](https://github.com/saminul-amin/air-script)** | Touchless air-writing. MediaPipe hand tracking in the browser, CNN inference and NLP correction behind FastAPI. |
+| **[SelfDiary](https://github.com/saminul-amin/self-diary)** | Cross-platform diary — Next.js web and Expo mobile, offline-first with automatic conflict resolution on reconnect. |
+| **[Multi-tool AI Agent](https://github.com/saminul-amin/multi-tool-ai-agent)** | An agent that routes across multiple external tools, in Python. |
+| **[Gym Sales OS](https://github.com/saminul-amin/gym-sales-automation-os)** | Lead qualification, trial booking and retention automation. n8n, OpenRouter, Google Sheets, Gmail and Cloudflare Workers. |
 
-###
+## Research
 
-<p align="left"><strong>GradeGrow:</strong> A web app that helps digitalizing the current education system so precisely. Built with React, Node.js, and MongoDB.</p>
+Bengali is badly under-served in NLP, so that is where I spend my research time.
 
-###
+- **Hallucination detection in Bangla** via category-aware judge routing
+- **Bangla deepfake audio detection**
+- **Qwen / BanglaLLaMA ensemble inference** — [notebook](https://github.com/saminul-amin/infer-ensemble-qwen-banglallama)
 
-<h2 align="left">📚 Learning:</h2>
+## What I work with
 
-###
+**Daily** — TypeScript · NestJS · Next.js · React · PostgreSQL · MongoDB · Node/Express
 
-<ul>
-  <li>Currently diving deeper into TypeScript and Django.</li>
-  <li>Exploring AI Integration and Backend Development.</li>
-  <li>Learning Machine Learning with Anaconda.</li>
-</ul>
+**Also** — Python (FastAPI, TensorFlow) · Kotlin · Redis · Docker · n8n
 
-###
+**What I actually care about** — migrations that do not diverge, backups someone has
+tested, tests that catch the regression, and a README the next person can operate from.
 
-<h2 align="left">I code with</h2>
+## Elsewhere
 
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-</div>
-
-###
-
-<h2 align="left">🌍 Let's Connect:</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.facebook.com/profile.php?id=100018114701775" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/md-saminul-amin-91605730a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://t.me/Saminul_amin" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="https://wa.me/8801326874247" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saminul-amin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saminul-amin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://nirzak-streak-stats.vercel.app?user=saminul-amin&theme=gruvbox" alt="GitHub Streak">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saminul-amin&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
+[Portfolio](https://md-saminul-amin.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/md-saminul-amin-91605730a/) · saminul.amin@gmail.com
