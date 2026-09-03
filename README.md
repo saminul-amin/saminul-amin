@@ -28,11 +28,20 @@ Sylhet, Bangladesh · open to remote
 
 ## Research
 
-Bengali is badly under-served in NLP, so that is where I spend my research time.
+Bengali is badly under-served in NLP and in security research, so that is where my research
+time goes. Four studies are in progress or under review:
 
-- **Hallucination detection in Bangla** via category-aware judge routing
-- **Bangla deepfake audio detection**
-- **Qwen / BanglaLLaMA ensemble inference** — [notebook](https://github.com/saminul-amin/infer-ensemble-qwen-banglallama)
+- **Hallucination detection in Bengali** — how detectors trained on synthetic data hold up
+  when they meet natural text.
+- **Benchmark integrity for Bangla text classification** — auditing public datasets for
+  train/test leakage and shortcut learning, and what that means for reported scores.
+- **Cross-lingual behaviour of code models** — whether prompting in English, Bangla or
+  Banglish changes how often a model invents package dependencies, and the supply-chain
+  exposure that creates.
+- **Password strength meters on Bangla and Banglish input** — where meters return
+  dangerously confident scores for passwords they cannot actually reason about.
+
+Repositories stay private while the work is under review.
 
 ## What I work with
 
