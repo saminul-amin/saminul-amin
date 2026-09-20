@@ -42,9 +42,9 @@ Repositories stay private while the work is under review.
 
 ## What I work with
 
-**Daily** — TypeScript · NestJS · Next.js · React · PostgreSQL · MongoDB · Node/Express
+**Core** — TypeScript · Python · NestJS · FastAPI · Next.js · React · PostgreSQL · Redis
 
-**Also** — Python (FastAPI, TensorFlow) · Kotlin · Redis · Docker · n8n
+**Also** — MongoDB · Node/Express · Docker · n8n · TensorFlow · Kotlin
 
 **What I actually care about** — migrations that do not diverge, backups someone has
 tested, tests that catch the regression, and a README the next person can operate from.
