@@ -1,17 +1,14 @@
 # Md. Saminul Amin
 
-**AI Engineer.** I build production systems in TypeScript and put models inside them.
+**Software Engineer · Applied AI**
 
-Currently the engineer on **TrustCart ERP** — a multi-tenant platform serving six retail
-storefronts from a single backend. NestJS and PostgreSQL, TypeORM migrations, Redis and Bull
-for queues, Socket.IO for realtime, Next.js on the front. 41 modules, 166 entities, 256 pages.
-I own the schema, the migration discipline, the backup pipeline and the deploys — around
-1,300 commits and 620 pull requests so far.
+I build production systems in **TypeScript and Python**, with a focus on backend architecture, AI-enabled products, and reliable model integration.
 
-Separately I work on Bengali-language NLP, and on projects that let me push into unfamiliar
-ground.
+Currently engineering **TrustCart ERP** — a multi-tenant retail platform serving six storefronts from a shared backend. I work across **NestJS, PostgreSQL, Redis/Bull, Socket.IO, Next.js, schema evolution, background jobs, backups, and deployment**.
 
-Sylhet, Bangladesh · open to remote
+Alongside product engineering, I work on **Bangla NLP, LLM evaluation, and AI/security research**, while building projects across computer vision, agents, automation, and local-first software.
+
+**Sylhet, Bangladesh · Open to remote opportunities**
 
 ---
 
