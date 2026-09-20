@@ -17,8 +17,8 @@ Alongside product engineering, I work on **Bangla NLP, LLM evaluation, and AI/se
 | Project | What it is |
 | :-- | :-- |
 | **[Ankur](https://github.com/saminul-amin/ankur)** · [live](https://ankur-gamma.vercel.app) | Turns Bengali and English documents into source-grounded adaptive assessments. Every generated item must cite validated source segment IDs before it can be displayed — the source boundary is enforced, not suggested. |
-| **[Caissa](https://github.com/saminul-amin/project-caissa)** | A local-first chess application with a bounded engine and guided post-game review. No accounts, no server, no analytics; everything runs on your device. 103 test files, CI, GPL-3.0. |
 | **[AirScript](https://github.com/saminul-amin/air-script)** | Touchless air-writing. MediaPipe hand tracking in the browser, CNN inference and NLP correction behind FastAPI. |
+| **[Caissa](https://github.com/saminul-amin/project-caissa)** | A local-first chess application with a bounded engine and guided post-game review. No accounts, no server, no analytics; everything runs on your device. 103 test files, CI, GPL-3.0. |
 | **[SelfDiary](https://github.com/saminul-amin/self-diary)** | Cross-platform diary — Next.js web and Expo mobile, offline-first with automatic conflict resolution on reconnect. |
 | **[Multi-tool AI Agent](https://github.com/saminul-amin/multi-tool-ai-agent)** | An agent that routes across multiple external tools, in Python. |
 | **[Gym Sales OS](https://github.com/saminul-amin/gym-sales-automation-os)** | Lead qualification, trial booking and retention automation. n8n, OpenRouter, Google Sheets, Gmail and Cloudflare Workers. |
